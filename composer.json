@@ -1,0 +1,15 @@
+{
+    "name": "gvand/modern-php",
+    "description": "Premier projet avec composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grégory Vandevraye",
+            "email": "gvandevray@numericable.fr"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.14"
+    }
+}
